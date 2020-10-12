@@ -1,0 +1,32 @@
+{
+  "name": "rtculam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev-server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "firebase": "^7.23.0",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aurelien-DivineDev/rtculam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aurelien-DivineDev/rtculam/issues"
+  },
+  "homepage": "https://github.com/Aurelien-DivineDev/rtculam#readme",
+  "engines": {
+    "node": "12.18.4"
+  },
+  "description": ""
+}
